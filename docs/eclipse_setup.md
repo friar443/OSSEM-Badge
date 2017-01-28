@@ -1,7 +1,8 @@
 
 ## Setup Eclipse Neon IDE
 Start Eclipse by going to you eclipse install directory and running the eclipse
-executable. Choose your workspace to be ~/workspace. **WARNING** Eclipse does
+executable. Note in the screen shot Eclipse IDE for C/C++ Developers was selected. 
+Choose your workspace to be ~/workspace. **WARNING** Eclipse does
 not do tilde exapansion so type out your full path to your workspace (for
 example /home/you\_username/workspace). Once Eclipse is loaded up go to Help >
 Eclipse Marketplace... In the find search bar we are going to type GNU. We need
